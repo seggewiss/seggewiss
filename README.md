@@ -3,7 +3,7 @@
 My name is Sebastian Seggewiss, I'm a software developer.
 Open-source is really close to my heart and I am always looking for new projects I can support.
 
-Feel free to check out what I have been doing recently.
+Feel free to check out what I have been doing recently?
 
 ---
 
