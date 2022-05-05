@@ -3,13 +3,13 @@
 My name is Sebastian Seggewiss, I'm a software developer.
 Open-source is really close to my heart and I am always looking for new projects I can support.
 
-Feel free to check out what I have been doing recently?
+Feel free to check out what I have been doing recently!
 
 ---
 
 #### Currently working on 💪
 
-- [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (1 day ago)
+- [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (today)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
 - [seggewiss/shortcut-example](https://github.com/seggewiss/shortcut-example) -  (1 week ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently?
 
 #### Releases I have contributed to 📦
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.0](https://github.com/shopware/platform/releases/tag/v6.4.11.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.1](https://github.com/shopware/platform/releases/tag/v6.4.11.1), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([3.0.12](https://github.com/shopware/e2e-testsuite-platform/releases/tag/3.0.12), 2 months ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v1.0.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v1.0.3), 2 years ago) - Jest Test preset for Shopware 6 administration unit tests
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
