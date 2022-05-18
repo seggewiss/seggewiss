@@ -9,13 +9,13 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (1 day ago)
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (5 days ago)
+- [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (2 days ago)
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (6 days ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 week ago)
 - [seggewiss/shortcut-example](https://github.com/seggewiss/shortcut-example) -  (2 weeks ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 weeks ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (3 weeks ago)
 - [shopware/meteor-icon-kit](https://github.com/shopware/meteor-icon-kit) - An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with Shopware&#39;s product language. (1 month ago)
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules. (1 month ago)
 
