@@ -9,7 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (4 days ago)
+- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (5 days ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (1 month ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.2](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.2), 3 days ago) - Official PHP Client for OpenSearch
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.2](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.2), 4 days ago) - Official PHP Client for OpenSearch
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.14.0](https://github.com/shopware/platform/releases/tag/v6.4.14.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([4.0.0](https://github.com/shopware/e2e-testsuite-platform/releases/tag/4.0.0), 1 month ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v1.0.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v1.0.3), 2 years ago) - Jest Test preset for Shopware 6 administration unit tests
