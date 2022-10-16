@@ -9,9 +9,9 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (2 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (5 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 days ago)
+- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (6 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (6 days ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (1 week ago)
 - [seggewiss/json-example](https://github.com/seggewiss/json-example) -  (1 month ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.0](https://github.com/shopware/platform/releases/tag/v6.4.16.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.0](https://github.com/shopware/platform/releases/tag/v6.4.16.0), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.3](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.3), 2 weeks ago) - Official PHP Client for OpenSearch
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v1.0.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v1.0.3), 2 years ago) - Jest Test preset for Shopware 6 administration unit tests
 
