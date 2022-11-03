@@ -11,7 +11,7 @@ Feel free to check out what I have been doing recently!
 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
-- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (1 week ago)
+- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (2 weeks ago)
 - [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (2 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (3 weeks ago)
 - [seggewiss/json-example](https://github.com/seggewiss/json-example) -  (2 months ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.1](https://github.com/shopware/platform/releases/tag/v6.4.16.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.1](https://github.com/shopware/platform/releases/tag/v6.4.16.1), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.3](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.3), 1 month ago) - Official PHP Client for OpenSearch
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v1.0.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v1.0.3), 2 years ago) - Jest Test preset for Shopware 6 administration unit tests
 
