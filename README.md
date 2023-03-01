@@ -11,7 +11,7 @@ Feel free to check out what I have been doing recently!
 
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (2 weeks ago)
 - [seggewiss/multi-kanban](https://github.com/seggewiss/multi-kanban) -  (2 weeks ago)
-- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (2 weeks ago)
+- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (3 weeks ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (3 weeks ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (1 month ago)
@@ -23,9 +23,10 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.1.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.1.0), 1 day ago) - Official PHP Client for OpenSearch
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.20.0](https://github.com/shopware/platform/releases/tag/v6.4.20.0), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([7.0.4](https://github.com/shopware/e2e-testsuite-platform/releases/tag/7.0.4), 2 weeks ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.1.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.1.0), 1 day ago) - Rector rules for Shopware 6
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.1.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.1.0), 2 days ago) - Official PHP Client for OpenSearch
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.20.0](https://github.com/shopware/platform/releases/tag/v6.4.20.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([7.0.4](https://github.com/shopware/e2e-testsuite-platform/releases/tag/7.0.4), 3 weeks ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v1.0.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v1.0.3), 3 years ago) - Jest Test preset for Shopware 6 administration unit tests
 
 ---
