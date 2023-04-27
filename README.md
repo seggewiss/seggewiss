@@ -9,14 +9,14 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/meteor-icon-kit](https://github.com/shopware/meteor-icon-kit) - An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with Shopware&#39;s product language. (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (2 days ago)
-- [seggewiss/shopware-app](https://github.com/seggewiss/shopware-app) - Example app for Shopware (5 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
+- [shopware/meteor-icon-kit](https://github.com/shopware/meteor-icon-kit) - An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with Shopware&#39;s product language. (2 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (3 days ago)
+- [seggewiss/shopware-app](https://github.com/seggewiss/shopware-app) - Example app for Shopware (6 days ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 week ago)
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (1 week ago)
-- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (1 week ago)
+- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (2 weeks ago)
 - [shopware/core](https://github.com/shopware/core) -  (4 weeks ago)
 
 ---
