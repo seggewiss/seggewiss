@@ -9,9 +9,9 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (1 week ago)
 - [seggewiss/vue-reproduction-1](https://github.com/seggewiss/vue-reproduction-1) - This repository illustrates an issues with complex types being altered as soon as they are in a data property. (1 week ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (2 weeks ago)
 - [shopware/docs](https://github.com/shopware/docs) -  (1 month ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 month ago)
