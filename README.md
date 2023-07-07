@@ -9,7 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (2 weeks ago)
 - [shopware/core](https://github.com/shopware/core) -  (2 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (2 weeks ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.0](https://github.com/shopware/platform/releases/tag/v6.5.3.0), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.1](https://github.com/shopware/platform/releases/tag/v6.5.3.1), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([7.0.5](https://github.com/shopware/e2e-testsuite-platform/releases/tag/7.0.5), 2 months ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v1.0.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v1.0.3), 3 years ago) - Jest Test preset for Shopware 6 administration unit tests
 
