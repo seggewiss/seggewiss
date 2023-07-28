@@ -10,7 +10,7 @@ Feel free to check out what I have been doing recently!
 #### Currently working on 💪
 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (1 day ago)
+- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (2 days ago)
 - [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (1 week ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (2 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (2 weeks ago)
