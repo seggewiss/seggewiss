@@ -9,21 +9,21 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (3 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (4 days ago)
 - [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (2 weeks ago)
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (2 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (1 month ago)
 - [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (1 month ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 month ago)
-- [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (2 months ago)
+- [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (3 months ago)
 - [seggewiss/vue-reproduction-1](https://github.com/seggewiss/vue-reproduction-1) - This repository illustrates an issues with complex types being altered as soon as they are in a data property. (3 months ago)
 
 ---
 
 #### Releases I have contributed to 📦
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.5.1](https://github.com/shopware/platform/releases/tag/v6.5.5.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.5.1](https://github.com/shopware/platform/releases/tag/v6.5.5.1), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.2.2](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.2.2), 2 weeks ago) - Jest Test preset for Shopware 6 administration unit tests
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([7.0.5](https://github.com/shopware/e2e-testsuite-platform/releases/tag/7.0.5), 5 months ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 
