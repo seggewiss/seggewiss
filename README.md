@@ -9,12 +9,12 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (2 weeks ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
 - [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (2 weeks ago)
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (2 weeks ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (3 weeks ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 weeks ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 weeks ago)
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (1 month ago)
 - [seggewiss/v3r](https://github.com/seggewiss/v3r) - Shopware Vue 3 template model handling refactor tool (2 months ago)
 - [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (3 months ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.2](https://github.com/shopware/shopware/releases/tag/v6.5.7.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.3](https://github.com/shopware/shopware/releases/tag/v6.5.7.3), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([7.0.6](https://github.com/shopware/e2e-testsuite-platform/releases/tag/7.0.6), 2 weeks ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) ([3.0.15](https://github.com/shopware/admin-extension-sdk/releases/tag/3.0.15), 1 month ago) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality.
 - [seggewiss/v3r](https://github.com/seggewiss/v3r) ([v1.0.3](https://github.com/seggewiss/v3r/releases/tag/v1.0.3), 2 months ago) - Shopware Vue 3 template model handling refactor tool
