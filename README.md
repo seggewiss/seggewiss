@@ -9,22 +9,23 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (3 weeks ago)
-- [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (3 weeks ago)
-- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (3 weeks ago)
+- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (4 weeks ago)
+- [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (4 weeks ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 month ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 month ago)
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (1 month ago)
 - [seggewiss/v3r](https://github.com/seggewiss/v3r) - Shopware Vue 3 template model handling refactor tool (2 months ago)
-- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (3 months ago)
 
 ---
 
 #### Releases I have contributed to 📦
 
-- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.0](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.0), 6 days ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.3](https://github.com/shopware/shopware/releases/tag/v6.5.7.3), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.0](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.0), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.0](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.0), 1 week ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.3](https://github.com/shopware/shopware/releases/tag/v6.5.7.3), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) ([3.0.15](https://github.com/shopware/admin-extension-sdk/releases/tag/3.0.15), 2 months ago) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality.
 - [seggewiss/v3r](https://github.com/seggewiss/v3r) ([v1.0.3](https://github.com/seggewiss/v3r/releases/tag/v1.0.3), 2 months ago) - Shopware Vue 3 template model handling refactor tool
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.2.2](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.2.2), 3 months ago) - Jest Test preset for Shopware 6 administration unit tests
