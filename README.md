@@ -9,9 +9,9 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/administration](https://github.com/shopware/administration) -  (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (1 week ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (2 weeks ago)
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (1 month ago)
 - [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (1 month ago)
@@ -28,7 +28,7 @@ Feel free to check out what I have been doing recently!
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.0](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.0), 3 weeks ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.3](https://github.com/shopware/shopware/releases/tag/v6.5.7.3), 4 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [seggewiss/v3r](https://github.com/seggewiss/v3r) ([v1.0.3](https://github.com/seggewiss/v3r/releases/tag/v1.0.3), 3 months ago) - Shopware Vue 3 template model handling refactor tool
-- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.2.2](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.2.2), 3 months ago) - Jest Test preset for Shopware 6 administration unit tests
+- [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.2.2](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.2.2), 4 months ago) - Jest Test preset for Shopware 6 administration unit tests
 
 ---
 
