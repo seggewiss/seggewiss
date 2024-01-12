@@ -9,10 +9,10 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (6 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (2 weeks ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (4 weeks ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 month ago)
 - [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (1 month ago)
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (1 month ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (2 months ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.5](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.5), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.5](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.5), 3 days ago) - CLI for Shopware Account and Shopware 6
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) ([3.0.16](https://github.com/shopware/admin-extension-sdk/releases/tag/3.0.16), 3 weeks ago) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality.
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.0](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.0), 1 month ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.3](https://github.com/shopware/shopware/releases/tag/v6.5.7.3), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
