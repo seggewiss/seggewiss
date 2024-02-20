@@ -9,10 +9,10 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (3 days ago)
-- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
+- [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (4 days ago)
+- [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (4 days ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 week ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [seggewiss/shopware-app](https://github.com/seggewiss/shopware-app) - Example app for Shopware (1 week ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.5](https://github.com/shopware/shopware/releases/tag/v6.5.8.5), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.6](https://github.com/shopware/shopware/releases/tag/v6.5.8.6), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.23](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.23), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/meteor-admin-sdk](https://github.com/shopware/meteor-admin-sdk) ([4.0.0](https://github.com/shopware/meteor-admin-sdk/releases/tag/4.0.0), 1 week ago) - The meteor-admin-sdk can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality.
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.2.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.2.3), 1 month ago) - Jest Test preset for Shopware 6 administration unit tests
