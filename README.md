@@ -9,23 +9,23 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (4 days ago)
-- [shopware/admin-extension-sdk-example-app](https://github.com/shopware/admin-extension-sdk-example-app) - An example app for demonstration of some Admin Extension SDK capabilties (6 days ago)
-- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (6 days ago)
-- [shopware/meteor-admin-sdk-example-app](https://github.com/shopware/meteor-admin-sdk-example-app) - An example app for demonstration of some Meteor Admin SDK capabilties (6 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (5 days ago)
+- [shopware/admin-extension-sdk-example-app](https://github.com/shopware/admin-extension-sdk-example-app) - An example app for demonstration of some Admin Extension SDK capabilties (1 week ago)
+- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (1 week ago)
+- [shopware/meteor-admin-sdk-example-app](https://github.com/shopware/meteor-admin-sdk-example-app) - An example app for demonstration of some Meteor Admin SDK capabilties (1 week ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 week ago)
 - [shopware/meteor-icon-kit](https://github.com/shopware/meteor-icon-kit) - An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with Shopware&#39;s product language. (2 weeks ago)
 - [shopware/meteor-component-library](https://github.com/shopware/meteor-component-library) - Shopware&#39;s design system to build empowering and delightful experiences for all of Shopware’s merchants. (2 weeks ago)
-- [shopware/meteor-admin-sdk](https://github.com/shopware/meteor-admin-sdk) - The meteor-admin-sdk can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (2 weeks ago)
+- [shopware/meteor-admin-sdk](https://github.com/shopware/meteor-admin-sdk) - The meteor-admin-sdk can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality. (3 weeks ago)
 
 ---
 
 #### Releases I have contributed to 📦
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.6.0.0-rc5), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [shopware/meteor](https://github.com/shopware/meteor) ([meteor-admin-sdk-example-app@1.0.2](https://github.com/shopware/meteor/releases/tag/meteor-admin-sdk-example-app%401.0.2), 5 days ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.28](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.28), 6 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.0.0-rc5](https://github.com/shopware/shopware/releases/tag/v6.6.0.0-rc5), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/meteor](https://github.com/shopware/meteor) ([meteor-admin-sdk-example-app@1.0.2](https://github.com/shopware/meteor/releases/tag/meteor-admin-sdk-example-app%401.0.2), 6 days ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.28](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.28), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/meteor-admin-sdk](https://github.com/shopware/meteor-admin-sdk) ([4.0.3](https://github.com/shopware/meteor-admin-sdk/releases/tag/4.0.3), 3 weeks ago) - The meteor-admin-sdk can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality.
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.2.3](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.2.3), 1 month ago) - Jest Test preset for Shopware 6 administration unit tests
 - [shopware/admin-extension-sdk](https://github.com/shopware/admin-extension-sdk) ([3.0.16](https://github.com/shopware/admin-extension-sdk/releases/tag/3.0.16), 2 months ago) - The Admin Extension SDK can be used by Shopware 6 apps and plugins. This library allows them to extend the administration with custom functionality.
