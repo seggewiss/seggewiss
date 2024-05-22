@@ -9,13 +9,13 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (2 weeks ago)
 - [cakephp/docs](https://github.com/cakephp/docs) - CakePHP CookBook (2 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (3 weeks ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (4 weeks ago)
-- [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (4 weeks ago)
+- [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (1 month ago)
 - [shopware/admin-extension-sdk-example-app](https://github.com/shopware/admin-extension-sdk-example-app) - An example app for demonstration of some Admin Extension SDK capabilties (2 months ago)
 - [shopware/meteor-admin-sdk-example-app](https://github.com/shopware/meteor-admin-sdk-example-app) - An example app for demonstration of some Meteor Admin SDK capabilties (2 months ago)
 
