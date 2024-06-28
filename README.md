@@ -12,7 +12,7 @@ Feel free to check out what I have been doing recently!
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (1 week ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
-- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) - The integrated Shopware Store for Shopware 6 (2 weeks ago)
+- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) - The integrated Shopware Store for Shopware 6 (3 weeks ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (1 month ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 month ago)
 - [cakephp/docs](https://github.com/cakephp/docs) - CakePHP CookBook (1 month ago)
