@@ -9,7 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (3 weeks ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (3 weeks ago)
 - [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) - The integrated Shopware Store for Shopware 6 (1 month ago)
