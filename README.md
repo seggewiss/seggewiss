@@ -17,13 +17,13 @@ Feel free to check out what I have been doing recently!
 - [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) - The integrated Shopware Store for Shopware 6 (2 months ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (3 months ago)
 - [shopware/core](https://github.com/shopware/core) -  (3 months ago)
-- [cakephp/docs](https://github.com/cakephp/docs) - CakePHP CookBook (3 months ago)
+- [cakephp/docs](https://github.com/cakephp/docs) - CakePHP CookBook (4 months ago)
 
 ---
 
 #### Releases I have contributed to 📦
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.52](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.52), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.52](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.52), 3 days ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.11.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.11.0), 1 month ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.1](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.1), 1 month ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
