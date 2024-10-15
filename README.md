@@ -9,24 +9,24 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (4 days ago)
-- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (5 days ago)
+- [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 days ago)
+- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (6 days ago)
 - [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) - Acceptance test suite based on Playwright. (2 weeks ago)
 - [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (2 months ago)
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (2 months ago)
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) - Jest Test preset for Shopware 6 administration unit tests (3 months ago)
 - [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) - The integrated Shopware Store for Shopware 6 (4 months ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 months ago)
 
 ---
 
 #### Releases I have contributed to 📦
 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.55](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.55), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-admin-sdk@5.5.1](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-admin-sdk%405.5.1), 1 week ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v3.8.4](https://github.com/shopware/acceptance-test-suite/releases/tag/v3.8.4), 3 weeks ago) - Acceptance test suite based on Playwright.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.1](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.1), 2 months ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([2.1.3](https://github.com/shopware/SwagExtensionStore/releases/tag/2.1.3), 3 months ago) - The integrated Shopware Store for Shopware 6
 - [shopware/jest-preset-sw6-admin](https://github.com/shopware/jest-preset-sw6-admin) ([v4.3.2](https://github.com/shopware/jest-preset-sw6-admin/releases/tag/v4.3.2), 3 months ago) - Jest Test preset for Shopware 6 administration unit tests
