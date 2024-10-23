@@ -9,12 +9,12 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [lhapaipai/symfony-vite-dev](https://github.com/lhapaipai/symfony-vite-dev) - Monorepo for symfony-vite development (1 day ago)
-- [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app &amp; Vite (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app &amp; Vite (2 days ago)
+- [lhapaipai/symfony-vite-dev](https://github.com/lhapaipai/symfony-vite-dev) - Monorepo for symfony-vite development (2 days ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 week ago)
 - [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (1 week ago)
-- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (1 week ago)
+- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (2 weeks ago)
 - [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) - Acceptance test suite based on Playwright. (3 weeks ago)
 - [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (2 months ago)
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) - This package contains the e2e platform test suite for Shopware 6 using Cypress (3 months ago)
