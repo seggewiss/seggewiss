@@ -9,10 +9,10 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [lhapaipai/symfony-vite-dev](https://github.com/lhapaipai/symfony-vite-dev) - Monorepo for symfony-vite development (5 days ago)
-- [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app &amp; Vite (5 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [lhapaipai/symfony-vite-dev](https://github.com/lhapaipai/symfony-vite-dev) - Monorepo for symfony-vite development (6 days ago)
+- [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app &amp; Vite (6 days ago)
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) - PayPal integration for shopware/platform (1 week ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (2 weeks ago)
@@ -23,9 +23,9 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v3.11.0](https://github.com/shopware/acceptance-test-suite/releases/tag/v3.11.0), 1 day ago) - Acceptance test suite based on Playwright.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.55](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.55), 3 weeks ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.56](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.56), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v3.11.0](https://github.com/shopware/acceptance-test-suite/releases/tag/v3.11.0), 2 days ago) - Acceptance test suite based on Playwright.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.1](https://github.com/shopware/shopware/releases/tag/v6.6.7.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-admin-sdk@5.5.1](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-admin-sdk%405.5.1), 3 weeks ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.1](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.1), 3 months ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([2.1.3](https://github.com/shopware/SwagExtensionStore/releases/tag/2.1.3), 3 months ago) - The integrated Shopware Store for Shopware 6
