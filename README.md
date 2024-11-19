@@ -13,7 +13,7 @@ Feel free to check out what I have been doing recently!
 - [shopware/administration](https://github.com/shopware/administration) -  (1 week ago)
 - [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) - Acceptance test suite based on Playwright. (1 week ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 week ago)
-- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (1 week ago)
+- [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (2 weeks ago)
 - [shopware/storefront](https://github.com/shopware/storefront) -  (2 weeks ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 weeks ago)
 - [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (3 weeks ago)
@@ -23,7 +23,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v5.0.0](https://github.com/shopware/acceptance-test-suite/releases/tag/v5.0.0), 5 days ago) - Acceptance test suite based on Playwright.
+- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v5.0.0](https://github.com/shopware/acceptance-test-suite/releases/tag/v5.0.0), 6 days ago) - Acceptance test suite based on Playwright.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.59](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.59), 2 weeks ago) - CLI for Shopware Account and Shopware 6
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-admin-sdk@5.5.1](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-admin-sdk%405.5.1), 1 month ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
