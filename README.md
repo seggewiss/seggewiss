@@ -9,8 +9,8 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (1 day ago)
 - [shopware/core](https://github.com/shopware/core) -  (1 week ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 week ago)
 - [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) - Acceptance test suite based on Playwright. (2 months ago)
