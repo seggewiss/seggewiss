@@ -9,9 +9,9 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (1 day ago)
-- [shopware/core](https://github.com/shopware/core) -  (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (3 weeks ago)
 - [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) - Acceptance test suite based on Playwright. (2 months ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (2 months ago)
@@ -23,9 +23,9 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v11.4.3](https://github.com/shopware/acceptance-test-suite/releases/tag/v11.4.3), 2 days ago) - Acceptance test suite based on Playwright.
+- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v11.4.3](https://github.com/shopware/acceptance-test-suite/releases/tag/v11.4.3), 3 days ago) - Acceptance test suite based on Playwright.
 - [shopware/SwagPayPal](https://github.com/shopware/SwagPayPal) ([8.6.5](https://github.com/shopware/SwagPayPal/releases/tag/8.6.5), 1 week ago) - PayPal integration for shopware/platform
-- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([3.1.1](https://github.com/shopware/SwagExtensionStore/releases/tag/3.1.1), 1 week ago) - The integrated Shopware Store for Shopware 6
+- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([3.1.1](https://github.com/shopware/SwagExtensionStore/releases/tag/3.1.1), 2 weeks ago) - The integrated Shopware Store for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-admin-sdk@5.5.1](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-admin-sdk%405.5.1), 3 months ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([8.0.1](https://github.com/shopware/e2e-testsuite-platform/releases/tag/8.0.1), 6 months ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
