@@ -12,7 +12,7 @@ Feel free to check out what I have been doing recently!
 - [lhapaipai/symfony-vite-dev](https://github.com/lhapaipai/symfony-vite-dev) - Monorepo for symfony-vite development (4 months ago)
 - [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app &amp; Vite (4 months ago)
 - [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (6 months ago)
-- [cakephp/docs](https://github.com/cakephp/docs) - CakePHP CookBook (9 months ago)
+- [cakephp/docs](https://github.com/cakephp/docs) - CakePHP CookBook (10 months ago)
 
 ---
 
