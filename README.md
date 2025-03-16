@@ -9,7 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [seggewiss/metr](https://github.com/seggewiss/metr) - Metr is a simple and lightweight metronome application designed for musicians who need a reliable, offline tool for keeping time during practice sessions. (6 days ago)
+- [seggewiss/metr](https://github.com/seggewiss/metr) - Metr is a simple and lightweight metronome application designed for musicians who need a reliable, offline tool for keeping time during practice sessions. (1 week ago)
 - [lhapaipai/symfony-vite-dev](https://github.com/lhapaipai/symfony-vite-dev) - Monorepo for symfony-vite development (4 months ago)
 - [lhapaipai/vite-bundle](https://github.com/lhapaipai/vite-bundle) - Integration with your Symfony app &amp; Vite (4 months ago)
 - [seggewiss/shopware-app-server](https://github.com/seggewiss/shopware-app-server) - A symfony and devenv based shopware env server. (7 months ago)
