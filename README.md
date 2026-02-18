@@ -18,7 +18,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v12.5.0](https://github.com/shopware/acceptance-test-suite/releases/tag/v12.5.0), 4 days ago) - Acceptance test suite based on Playwright.
+- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) ([v12.5.0](https://github.com/shopware/acceptance-test-suite/releases/tag/v12.5.0), 5 days ago) - Acceptance test suite based on Playwright.
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-tokens@1.4.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-tokens%401.4.0), 1 week ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.13](https://github.com/shopware/shopware/releases/tag/v6.6.10.13), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
