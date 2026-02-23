@@ -9,11 +9,10 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (3 days ago)
+- [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (4 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (10 months ago)
 - [seggewiss/metr](https://github.com/seggewiss/metr) - Metr is a simple and lightweight metronome application designed for musicians who need a reliable, offline tool for keeping time during practice sessions. (11 months ago)
-- [shopware/acceptance-test-suite](https://github.com/shopware/acceptance-test-suite) - Acceptance test suite based on Playwright. (1 year ago)
 
 ---
 
