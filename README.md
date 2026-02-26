@@ -9,7 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (6 days ago)
+- [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (10 months ago)
 - [seggewiss/metr](https://github.com/seggewiss/metr) - Metr is a simple and lightweight metronome application designed for musicians who need a reliable, offline tool for keeping time during practice sessions. (11 months ago)
@@ -19,7 +19,7 @@ Feel free to check out what I have been doing recently!
 #### Releases I have contributed to 📦
 
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-tokens@1.4.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-tokens%401.4.0), 2 weeks ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.13](https://github.com/shopware/shopware/releases/tag/v6.6.10.13), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.13](https://github.com/shopware/shopware/releases/tag/v6.6.10.13), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
 ---
 
