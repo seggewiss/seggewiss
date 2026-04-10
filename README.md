@@ -17,7 +17,7 @@ Feel free to check out what I have been doing recently!
 
 #### Releases I have contributed to 📦
 
-- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@4.27.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%404.27.0), 1 week ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
+- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-admin-sdk@6.7.1](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-admin-sdk%406.7.1), 1 day ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
 ---
