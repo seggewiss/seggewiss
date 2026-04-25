@@ -9,7 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
-- [seggewiss/jp](https://github.com/seggewiss/jp) - Minimal JSON parser using dot notation (4 days ago)
+- [seggewiss/jp](https://github.com/seggewiss/jp) - Minimal JSON parser using dot notation (5 days ago)
 - [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (2 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (5 months ago)
 - [shopware/meteor](https://github.com/shopware/meteor) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination. (1 year ago)
