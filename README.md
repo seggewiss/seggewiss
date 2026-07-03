@@ -11,7 +11,7 @@ Feel free to check out what I have been doing recently!
 
 - [seggewiss/jp](https://github.com/seggewiss/jp) - Minimal JSON parser using dot notation (2 months ago)
 - [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (4 months ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (7 months ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (8 months ago)
 
 ---
 
