@@ -9,6 +9,7 @@ Feel free to check out what I have been doing recently!
 
 #### Currently working on 💪
 
+- [seggewiss/shadowsmith](https://github.com/seggewiss/shadowsmith) - Forge crypt(3) password hashes for every format /etc/shadow accepts (DES, MD5, SHA-256, SHA-512, Blowfish) — a lab/CTF tool (1 day ago)
 - [seggewiss/jp](https://github.com/seggewiss/jp) - Minimal JSON parser using dot notation (3 months ago)
 - [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (5 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (8 months ago)
