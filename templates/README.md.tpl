@@ -1,13 +1,12 @@
-### Greetings 👋
+### whoami 👋
 
-My name is Sebastian Seggewiss, I'm a software developer.
-Open-source is really close to my heart and I am always looking for new projects I can support.
+I'm Sebastian Seggewiss — a software engineer currently deep in offensive security: network pivoting, exploitation, and building small tools and labs for CTF-style practice.
 
-Feel free to check out what I have been doing recently!
+Open-source is close to my heart, and these days most of that energy goes into breaking things safely in labs and building the tooling around it.
 
 ---
 
-#### Currently working on 💪
+#### Currently working on 🔓
 {{range recentContributions 9}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -21,14 +20,6 @@ Feel free to check out what I have been doing recently!
 
 ---
 
-#### The terrible truth - Statistics 📉
+#### Stats 📊
 
-<img align="right" alt="shyim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=seggewiss&count_private=1&show_icons=true&" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seggewiss)
-
----
-
-#### Other touchpoints 🗣
-
-- Twitter: [@last__sgt](https://twitter.com/last__sgt)
+![Sebastian's GitHub metrics](github-metrics.svg)
