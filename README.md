@@ -8,6 +8,7 @@ Open-source is close to my heart, and these days most of that energy goes into b
 
 #### Currently working on 🔓
 
+- [seggewiss/simple-food-scanner](https://github.com/seggewiss/simple-food-scanner) -  (1 day ago)
 - [seggewiss/ine-flag-hider](https://github.com/seggewiss/ine-flag-hider) - Chrome extension that automatically removes flag hints in both the lab description and the submit form. This extension aims to maximize learning effect. (1 week ago)
 - [seggewiss/double-pivot](https://github.com/seggewiss/double-pivot) - Self-contained Proxmox VE network-pivoting lab (INE eJPT style) — DMZ to two hidden internal segments via chained pivots. https://seggewiss.github.io/double-pivot/ (1 week ago)
 - [seggewiss/shadowsmith](https://github.com/seggewiss/shadowsmith) - Forge crypt(3) password hashes for every format /etc/shadow accepts (DES, MD5, SHA-256, SHA-512, Blowfish) — a lab/CTF tool (1 week ago)
@@ -19,7 +20,7 @@ Open-source is close to my heart, and these days most of that energy goes into b
 
 #### Releases I have contributed to 📦
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.22](https://github.com/shopware/shopware/releases/tag/v6.6.10.22), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.22](https://github.com/shopware/shopware/releases/tag/v6.6.10.22), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
 ---
 
