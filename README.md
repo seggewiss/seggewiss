@@ -10,7 +10,7 @@ Open-source is close to my heart, and these days most of that energy goes into b
 
 - [seggewiss/simple-food-scanner](https://github.com/seggewiss/simple-food-scanner) -  (2 weeks ago)
 - [seggewiss/ine-flag-hider](https://github.com/seggewiss/ine-flag-hider) - Chrome extension that automatically removes flag hints in both the lab description and the submit form. This extension aims to maximize learning effect. (3 weeks ago)
-- [seggewiss/double-pivot](https://github.com/seggewiss/double-pivot) - Self-contained Proxmox VE network-pivoting lab (INE eJPT style) — DMZ to two hidden internal segments via chained pivots. https://seggewiss.github.io/double-pivot/ (3 weeks ago)
+- [seggewiss/double-pivot](https://github.com/seggewiss/double-pivot) - Self-contained Proxmox VE network-pivoting lab (INE eJPT style) — DMZ to two hidden internal segments via chained pivots. https://seggewiss.github.io/double-pivot/ (4 weeks ago)
 - [seggewiss/shadowsmith](https://github.com/seggewiss/shadowsmith) - Forge crypt(3) password hashes for every format /etc/shadow accepts (DES, MD5, SHA-256, SHA-512, Blowfish) — a lab/CTF tool (1 month ago)
 - [seggewiss/jp](https://github.com/seggewiss/jp) - Minimal JSON parser using dot notation (4 months ago)
 - [seggewiss/nvim-config](https://github.com/seggewiss/nvim-config) -  (6 months ago)
@@ -20,7 +20,7 @@ Open-source is close to my heart, and these days most of that energy goes into b
 
 #### Releases I have contributed to 📦
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.13.1](https://github.com/shopware/shopware/releases/tag/v6.7.13.1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 
 ---
 
